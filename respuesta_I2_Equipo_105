@@ -7,5 +7,9 @@ a)Con fetch y merge
 b)No, solo BETA
 c)No, solo puedo hacerlo BETA 
 d)No, se mantienen los datos
-e)
-f)
+e)Brian Cespedes mkdir -p TP_SO_i2_Equipo105, touch fork.txt, touch NuevoDato.txt, git add ., git commit -m "", git push, pull request, git pull, vim respuestas_I2 , git add ., git commit -m"", git push.
+
+Santiago Fossa git clone, echo "nombre y apellido" >> fork.txt, ip route | grep default >> fork.txt, date >> fork.txt, git add ., git commit -m "", git push,pull request, git fetch and merge, git pull, vim respuestas_I2, git add ., git commit -m"", git push.
+
+Luis Andaur git clone, echo "nombre y apellido" >> fork.txt, ip route | grep default >> fork.txt, date >> fork.txt, git add ., git commit -m "", git push, pull request, git fetch and merge, git pull, vim respuestas_I2, git add ., git commit -m "", git push.
+
