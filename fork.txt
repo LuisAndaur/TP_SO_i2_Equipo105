@@ -1,1 +1,9 @@
 
+Santiago Fossa
+default via 192.168.0.1 dev enp0s3 proto dhcp metric 100 
+mié 20 oct 2021 21:23:33 -03
+
+Luis Andaur
+default via 192.168.1.1 dev enp0s3 proto dhcp metric 100 
+mié 20 oct 2021 21:29:10 -03
+
